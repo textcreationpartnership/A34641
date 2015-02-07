@@ -115,9 +115,12 @@
    <text xml:lang="eng">
       <front>
          <div type="frontispiece">
-            <figure>
-               <head>The Planters Manuell Bij Charles Cotton eqs</head>
-            </figure>
+            <p>
+               <pb facs="tcp:48556:1"/>
+               <figure>
+                  <head>The Planters Manuell Bij Charles Cotton eqs</head>
+               </figure>
+            </p>
             <p>
                <hi>London Printed for Henry Brome</hi> 1675</p>
             <p>
